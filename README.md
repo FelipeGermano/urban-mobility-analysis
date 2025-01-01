@@ -3,8 +3,8 @@
 ## Descrição
 O **GTFS Analyzer** é uma ferramenta interativa desenvolvida em Python para analisar arquivos GTFS (General Transit Feed Specification) e oferecer insights sobre a eficiência de rotas de transporte público. A ferramenta inclui uma interface gráfica intuitiva, onde os usuários podem carregar arquivos GTFS, realizar análises de frequência de rotas e visualizar áreas de cobertura das paradas.
 
-![Inteface](https://www.screenpresso.com/=J5NSRoI2TOFw)
-![Resultado](https://www.screenpresso.com/=O4DgXK93MKHV)
+![Inteface](https://cloud.screenpresso.com/J5NSRoI2TOFw/2025-01-01_11h35_52_original.png)
+![Resultado](https://cloud.screenpresso.com/O4DgXK93MKHV/2025-01-01_11h36_33_original.png)
 
 ## Funcionalidades
 - **Carregamento de Arquivos GTFS**: Suporte para arquivos no formato ZIP contendo dados GTFS.
